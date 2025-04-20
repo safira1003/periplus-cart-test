@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-20T12:37:11 WIB" name="Default suite" finished-at="2025-04-20T12:38:24 WIB" duration-ms="72414">
+    <groups>
+    </groups>
+    <test started-at="2025-04-20T12:37:11 WIB" name="Default test" finished-at="2025-04-20T12:38:24 WIB" duration-ms="72414">
+      <class name="com.periplus.tests.ShoppingCartTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.periplus.tests.ShoppingCartTest@22fcf7ab]" started-at="2025-04-20T12:37:11 WIB" name="setup" finished-at="2025-04-20T12:37:16 WIB" duration-ms="4402" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testLoginAndAddProductToCart()[pri:0, instance:com.periplus.tests.ShoppingCartTest@22fcf7ab]" started-at="2025-04-20T12:37:16 WIB" name="testLoginAndAddProductToCart" finished-at="2025-04-20T12:38:23 WIB" duration-ms="66702" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginAndAddProductToCart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.periplus.tests.ShoppingCartTest@22fcf7ab]" started-at="2025-04-20T12:38:23 WIB" name="tearDown" finished-at="2025-04-20T12:38:24 WIB" duration-ms="1134" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.periplus.tests.ShoppingCartTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
